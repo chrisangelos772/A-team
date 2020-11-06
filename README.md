@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Making a website as a team (Git collabotation)
 
 Practice your skills in GIT while developing a typical website.
@@ -36,3 +37,6 @@ Everyone delivers the same repo as solution.
 
 The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-engine) is being used as template engine for building the landing page.
 
+=======
+# A-team
+>>>>>>> 0d6a07b... Initial commit
